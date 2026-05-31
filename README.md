@@ -27,6 +27,40 @@ The lack of centralized reporting reduced visibility into operational performanc
 
 ---
 
+## Screenshots
+
+### Navigation Page
+
+<img width="761" height="371" alt="image" src="https://github.com/user-attachments/assets/01929743-57bc-42fb-a6c8-15a0df484643" />
+
+
+### Executive Cutover Summary
+
+<img width="631" height="373" alt="image" src="https://github.com/user-attachments/assets/bdf86c43-1277-460d-9db3-e144aae58753" />
+
+
+### Site Health Check Tracking
+
+<img width="596" height="371" alt="image" src="https://github.com/user-attachments/assets/b76b4467-01f4-43f3-ac97-9117d4c6cfb0" />
+
+
+### Failed Site Investigation
+
+<img width="598" height="365" alt="image" src="https://github.com/user-attachments/assets/946a2539-8275-4ed4-a676-948501bab444" />
+
+
+### KPI Validation Matrix
+
+<img width="597" height="365" alt="image" src="https://github.com/user-attachments/assets/85f1a638-dfa7-4aa6-a921-e4d53cbe3290" />
+
+
+### Detailed Operational Tracker
+
+<img width="661" height="364" alt="image" src="https://github.com/user-attachments/assets/724d39b4-aa38-42f9-974b-d90d3ee27466" />
+
+
+---
+
 ## Solution
 
 Developed an interactive Power BI dashboard to centralize operational monitoring and validation reporting.
@@ -192,39 +226,6 @@ Dataset Characteristics:
 
 ---
 
-## Screenshots
-
-### Navigation Page
-
-<img width="761" height="371" alt="image" src="https://github.com/user-attachments/assets/01929743-57bc-42fb-a6c8-15a0df484643" />
-
-
-### Executive Cutover Summary
-
-<img width="631" height="373" alt="image" src="https://github.com/user-attachments/assets/bdf86c43-1277-460d-9db3-e144aae58753" />
-
-
-### Site Health Check Tracking
-
-<img width="596" height="371" alt="image" src="https://github.com/user-attachments/assets/b76b4467-01f4-43f3-ac97-9117d4c6cfb0" />
-
-
-### Failed Site Investigation
-
-<img width="598" height="365" alt="image" src="https://github.com/user-attachments/assets/946a2539-8275-4ed4-a676-948501bab444" />
-
-
-### KPI Validation Matrix
-
-<img width="597" height="365" alt="image" src="https://github.com/user-attachments/assets/85f1a638-dfa7-4aa6-a921-e4d53cbe3290" />
-
-
-### Detailed Operational Tracker
-
-<img width="661" height="364" alt="image" src="https://github.com/user-attachments/assets/724d39b4-aa38-42f9-974b-d90d3ee27466" />
-
-
----
 
 ## Author
 
